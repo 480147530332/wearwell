@@ -1,0 +1,51 @@
+.category-page {
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+.category-banner {
+  border-radius: 10px;
+  padding: 2.2em 2em;
+  color: #fff;
+  margin-bottom: 1.2em;
+}
+
+.category-banner h1 {
+  margin: 0 0 0.2em;
+  font-size: 2em;
+  font-weight: 800;
+}
+
+.category-banner p {
+  margin: 0;
+  opacity: 0.9;
+}
+
+.women-banner {
+  background: linear-gradient(120deg, #ff5b94, #ff8fb3);
+}
+
+.men-banner {
+  background: linear-gradient(120deg, #2874f0, #143e91);
+}
+
+.category-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #fff;
+  padding: 10px 16px;
+  border-radius: 6px;
+  box-shadow: var(--shadow-sm);
+  font-size: 0.9rem;
+  color: var(--text-gray);
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.category-toolbar select {
+  padding: 6px 10px;
+  border-radius: 4px;
+  border: 1px solid var(--border-color);
+  font-size: 0.9rem;
+}
