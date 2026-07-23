@@ -49,10 +49,10 @@ a {
   border: none;
   border-radius: 2px;
   font-weight: 600;
-  padding: 10px 14px;
+  padding: 5px 0px;
   cursor: pointer;
   transition: background 0.2s ease;
-  font-size: 0.9rem;
+  font-size: 0.78rem;
   letter-spacing: 0.3px;
 }
 .btn-buynow:hover { background-color: var(--brand-orange-dark); }
